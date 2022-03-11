@@ -1,0 +1,16 @@
+1. Tekstin poimija tehtynä jonka jälkeen tehtävä 1 on tehty.
+Aliohjelma jo tehty ja toimii halutulla tavalla
+
+2.  - konsolin puolen runaus pitää saada toimimaan tähän mennessä on toiminut jokseeki hyvin.
+    - Käyttäjä syöttää konsoliin ./mygrep following ja tämän jälkeen ohjelman pitäisi pystyy
+    heti suorittamaan tarkistuksen että kuinka monta kertaa löytyy "following" tekstitiedosta.
+
+    Aliohjelma joka tekee tämän siis etsii "Following" tarkasti tiedoistaan. ilmoittaa määrän
+    ja kaikki ne tiedot esille.
+
+        - 32 ja 245: rivi on se missä tieto on
+        -  Kahdella rivillä siis näkyy kyseinen pätkä eli käyttäjälle pitää ilmoittaa kuinka monessa
+            rivissä "following" ilmestyy.
+        
+
+
